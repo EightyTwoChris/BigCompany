@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>u_request_type</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>ChangeDeviceClass</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+		if ( newValue == '') {
+			return;
+		}
+		
+		var requesttype = g_form.getValue('u_mdc');
+		
+		// Clear all of the choices from the What needed field choice list
+		g_form.clearOptions('u_mdc');
+		
+		// If the value of the Request type field is hr, add
+		// two hr choices and other to the What needed field choice list
+		if(newValue == 'dressings'){
+			g_form.addOption('u_mdc','class1','class1');
+		}
+		// If the value of the Request type field is facilities, add
+		// two facilities choices and other to the What needed field
+		// choice list
+		if(newValue == 'tubing'){
+			g_form.addOption('u_mdc','class2a','class2a');
+		}
+		// If the value of the Request type field is legal, add
+		// two legal choices and other to the What needed field
+		// choice list
+		if(newValue == 'bloodbags'){
+			g_form.addOption('u_mdc','class2b','class2b');
+		}
+		if(newValue == 'dressing microbial'){
+		g_form.addOption('u_mdc','class3','class3');
+		}
+		else{
+		g_form.addOption('u_mdc','other','other');
+		}
+		// If the form is loading and it is not a new record, set the u_what_needed value to the
+		// value from the record before it was loaded
+		if(isLoading && !g_form.isNewRecord()){
+			g_form.setValue('u_mdc', requesttype);
+		}
+	}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-05 07:54:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>894564d8dbd1101037a8560868961928</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>ChangeDeviceClass</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="BigCompany" source="x_491783_bigcompan">9aca90d0dbd1101037a856086896194a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BigCompany">9aca90d0dbd1101037a856086896194a</sys_scope>
+        <sys_update_name>sys_script_client_894564d8dbd1101037a8560868961928</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-05 07:58:34</sys_updated_on>
+        <table>x_491783_bigcompan_medical_device_compliance</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>
