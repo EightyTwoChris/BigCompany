@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" extends="task" max_length="40" name="x_491783_bigcompan_medical_device_compliance" type="collection">
         <element label="Back Order" max_length="40" name="u_boolean_7" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="sydney" label="Location" mandatory="true" max_length="40" name="u_choice_2" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Sydney" sequence="0" value="sydney"/>
+                <element inactive_on_update="false" label="Melbourne" sequence="1" value="melbourne"/>
+                <element inactive_on_update="false" label="Brisbane" sequence="2" value="brisbane"/>
+                <element inactive_on_update="false" label="Adelaide" sequence="3" value="adelaide"/>
+                <element inactive_on_update="false" label="Perth" sequence="4" value="perth"/>
+            </choice>
+        </element>
         <element attributes="omit_sys_original=true" label="Total Value" mandatory="true" max_length="20" name="u_currency_6" type="currency"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="class1" label="Medical Device Class" max_length="40" name="u_mdc" type="string">
             <choice>

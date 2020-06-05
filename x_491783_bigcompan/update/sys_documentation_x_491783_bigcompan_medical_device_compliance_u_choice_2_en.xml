@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_choice_2" label="Location" language="en" table="x_491783_bigcompan_medical_device_compliance">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_choice_2</element>
+            <help/>
+            <hint/>
+            <label>Location</label>
+            <language>en</language>
+            <name>x_491783_bigcompan_medical_device_compliance</name>
+            <plural>Locations</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-05 09:03:18</sys_created_on>
+            <sys_id>a326bc94db15101037a8560868961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Location</sys_name>
+            <sys_package display_value="BigCompany" source="x_491783_bigcompan">9aca90d0dbd1101037a856086896194a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BigCompany">9aca90d0dbd1101037a856086896194a</sys_scope>
+            <sys_update_name>sys_documentation_x_491783_bigcompan_medical_device_compliance_u_choice_2_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-05 09:03:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
