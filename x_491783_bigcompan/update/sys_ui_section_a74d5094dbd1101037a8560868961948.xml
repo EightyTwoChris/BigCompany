@@ -4,167 +4,153 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-05 07:14:37</sys_created_on>
-            <sys_id>ab4d5094dbd1101037a8560868961949</sys_id>
+            <sys_created_on>2020-06-05 07:41:34</sys_created_on>
+            <sys_id>9273ec58dbd1101037a85608689619f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_491783_bigcompan_medical_device_compliance" sys_domain="global" view="Default view">a74d5094dbd1101037a8560868961948</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-05 07:14:37</sys_updated_on>
+            <sys_updated_on>2020-06-05 07:41:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>assigned_to</element>
+            <element>u_when_needed</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-05 07:14:37</sys_created_on>
-            <sys_id>234d5094dbd1101037a856086896194a</sys_id>
+            <sys_created_on>2020-06-05 07:41:34</sys_created_on>
+            <sys_id>1673ec58dbd1101037a85608689619f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_491783_bigcompan_medical_device_compliance" sys_domain="global" view="Default view">a74d5094dbd1101037a8560868961948</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-05 07:14:37</sys_updated_on>
+            <sys_updated_on>2020-06-05 07:41:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>cmdb_ci</element>
+            <element>u_requested_for</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-05 07:14:37</sys_created_on>
-            <sys_id>a34d5094dbd1101037a856086896194a</sys_id>
+            <sys_created_on>2020-06-05 07:41:34</sys_created_on>
+            <sys_id>9673ec58dbd1101037a85608689619f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_491783_bigcompan_medical_device_compliance" sys_domain="global" view="Default view">a74d5094dbd1101037a8560868961948</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-05 07:14:37</sys_updated_on>
+            <sys_updated_on>2020-06-05 07:41:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>active</element>
+            <element>u_requested_for_email</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-05 07:14:37</sys_created_on>
-            <sys_id>274d5094dbd1101037a856086896194a</sys_id>
+            <sys_created_on>2020-06-05 07:41:34</sys_created_on>
+            <sys_id>1a73ec58dbd1101037a85608689619f6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_491783_bigcompan_medical_device_compliance" sys_domain="global" view="Default view">a74d5094dbd1101037a8560868961948</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-05 07:14:37</sys_updated_on>
+            <sys_updated_on>2020-06-05 07:41:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_request_type</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-05 07:41:34</sys_created_on>
+            <sys_id>9a73ec58dbd1101037a85608689619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_491783_bigcompan_medical_device_compliance" sys_domain="global" view="Default view">a74d5094dbd1101037a8560868961948</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-05 07:41:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_mdc</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-05 07:41:34</sys_created_on>
+            <sys_id>1e73ec58dbd1101037a85608689619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_491783_bigcompan_medical_device_compliance" sys_domain="global" view="Default view">a74d5094dbd1101037a8560868961948</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-05 07:41:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_currency_6</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-05 07:41:34</sys_created_on>
+            <sys_id>9e73ec58dbd1101037a85608689619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_491783_bigcompan_medical_device_compliance" sys_domain="global" view="Default view">a74d5094dbd1101037a8560868961948</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-05 07:41:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_boolean_7</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-05 07:41:34</sys_created_on>
+            <sys_id>1273ec58dbd1101037a85608689619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_491783_bigcompan_medical_device_compliance" sys_domain="global" view="Default view">a74d5094dbd1101037a8560868961948</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-05 07:41:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>4</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-05 07:14:37</sys_created_on>
-            <sys_id>a74d5094dbd1101037a856086896194a</sys_id>
+            <sys_created_on>2020-06-05 07:41:34</sys_created_on>
+            <sys_id>9273ec58dbd1101037a85608689619f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_491783_bigcompan_medical_device_compliance" sys_domain="global" view="Default view">a74d5094dbd1101037a8560868961948</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-05 07:14:37</sys_updated_on>
+            <sys_updated_on>2020-06-05 07:41:34</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>priority</element>
-            <position>5</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-05 07:14:37</sys_created_on>
-            <sys_id>2b4d5094dbd1101037a856086896194a</sys_id>
+            <sys_created_on>2020-06-05 07:41:34</sys_created_on>
+            <sys_id>1673ec58dbd1101037a85608689619f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_491783_bigcompan_medical_device_compliance" sys_domain="global" view="Default view">a74d5094dbd1101037a8560868961948</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-05 07:14:37</sys_updated_on>
+            <sys_updated_on>2020-06-05 07:41:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>state</element>
-            <position>6</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-05 07:14:37</sys_created_on>
-            <sys_id>ab4d5094dbd1101037a856086896194a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_491783_bigcompan_medical_device_compliance" sys_domain="global" view="Default view">a74d5094dbd1101037a8560868961948</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-05 07:14:37</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>parent</element>
-            <position>7</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-05 07:14:37</sys_created_on>
-            <sys_id>2f4d5094dbd1101037a856086896194a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_491783_bigcompan_medical_device_compliance" sys_domain="global" view="Default view">a74d5094dbd1101037a8560868961948</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-05 07:14:37</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.end_split</element>
-            <position>8</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-05 07:14:37</sys_created_on>
-            <sys_id>af4d5094dbd1101037a856086896194a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_491783_bigcompan_medical_device_compliance" sys_domain="global" view="Default view">a74d5094dbd1101037a8560868961948</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-05 07:14:37</sys_updated_on>
-            <sys_user/>
-            <type>.end_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>short_description</element>
-            <position>9</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-05 07:14:37</sys_created_on>
-            <sys_id>234d5094dbd1101037a856086896194b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_491783_bigcompan_medical_device_compliance" sys_domain="global" view="Default view">a74d5094dbd1101037a8560868961948</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-05 07:14:37</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>description</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-05 07:14:37</sys_created_on>
-            <sys_id>a34d5094dbd1101037a856086896194b</sys_id>
+            <sys_created_on>2020-06-05 07:41:34</sys_created_on>
+            <sys_id>9673ec58dbd1101037a85608689619f7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_491783_bigcompan_medical_device_compliance" sys_domain="global" view="Default view">a74d5094dbd1101037a8560868961948</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-05 07:14:37</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>work_notes</element>
-            <position>11</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-05 07:14:37</sys_created_on>
-            <sys_id>274d5094dbd1101037a856086896194b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_491783_bigcompan_medical_device_compliance" sys_domain="global" view="Default view">a74d5094dbd1101037a8560868961948</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-05 07:14:37</sys_updated_on>
+            <sys_updated_on>2020-06-05 07:41:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

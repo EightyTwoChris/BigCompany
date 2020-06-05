@@ -1,3 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" max_length="40" name="x_491783_bigcompan_medical_device_compliance" type="collection"/>
+    <element audit="true" extends="task" max_length="40" name="x_491783_bigcompan_medical_device_compliance" type="collection">
+        <element label="Back Order" max_length="40" name="u_boolean_7" type="boolean"/>
+        <element attributes="omit_sys_original=true" label="Total Value" mandatory="true" max_length="20" name="u_currency_6" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="class1" label="Medical Device Class" max_length="40" name="u_mdc" type="string">
+            <choice>
+                <element inactive_on_update="false" label="class1" sequence="0" value="class1"/>
+                <element inactive_on_update="false" label="class2a" sequence="1" value="class2a"/>
+                <element inactive_on_update="false" label="class2b" sequence="2" value="class2b"/>
+                <element inactive_on_update="false" label="class3" sequence="3" value="class3"/>
+                <element inactive_on_update="false" label="other" sequence="4" value="other"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Requested For" mandatory="true" max_length="32" name="u_requested_for" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Requested For Email" max_length="40" name="u_requested_for_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="dressings" label="request_Type" mandatory="true" max_length="40" name="u_request_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="dressings" sequence="0" value="dressings"/>
+                <element inactive_on_update="false" label="tubing" sequence="1" value="tubing"/>
+                <element inactive_on_update="false" label="bloodbags" sequence="2" value="bloodbags"/>
+                <element inactive_on_update="false" label="dressing microbial" sequence="3" value="dressing microbial"/>
+                <element inactive_on_update="false" label="other" sequence="4" value="other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="CheckedOn" mandatory="true" max_length="40" name="u_when_needed" type="glide_date_time"/>
+    </element>
 </database>
