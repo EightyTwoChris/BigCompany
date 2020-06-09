@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Presales Engagement ">d02bdbc9db95901037a8560868961955</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Presales Engagement s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_491783_bigcompan_presales_engagement</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_491783_bigcompan.presales_engagement_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-08 05:03:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>782c9b0ddb95901037a85608689619ea</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>All Presales</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="BigCompany" source="x_491783_bigcompan">9aca90d0dbd1101037a856086896194a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BigCompany">9aca90d0dbd1101037a856086896194a</sys_scope>
+        <sys_update_name>sys_app_module_782c9b0ddb95901037a85608689619ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-08 06:13:09</sys_updated_on>
+        <timeline_page/>
+        <title>All Presales</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BigCompany">9aca90d0dbd1101037a856086896194a</application>
+        <file_path/>
+        <instance_id>243fee40dbe7138489535d00cf9619e4</instance_id>
+        <instance_name>dev66516</instance_name>
+        <name>sys_app_module_782c9b0ddb95901037a85608689619ea</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Presales Engagement ">d02bdbc9db95901037a8560868961955</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Presales Engagement s</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_491783_bigcompan_presales_engagement</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_491783_bigcompan.presales_engagement_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-08 05:03:49</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>782c9b0ddb95901037a85608689619ea</sys_id><sys_mod_count>2</sys_mod_count><sys_name>All Presales</sys_name><sys_overrides/><sys_package display_value="BigCompany" source="x_491783_bigcompan">9aca90d0dbd1101037a856086896194a</sys_package><sys_policy/><sys_scope display_value="BigCompany">9aca90d0dbd1101037a856086896194a</sys_scope><sys_update_name>sys_app_module_782c9b0ddb95901037a85608689619ea</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-08 06:13:09</sys_updated_on><timeline_page/><title>All Presales</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1996583842</payload_hash>
+        <record_name>All Presales</record_name>
+        <reverted_from/>
+        <source>79fbd70ddb95901037a85608689619a7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-08 06:13:09</sys_created_on>
+        <sys_id>5c0c2749dbd5901037a856086896195c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172928fae690000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-08 06:13:09</sys_updated_on>
+        <type>Module</type>
+        <update_guid>540c2749b2d590102a05c434ebd9d95c</update_guid>
+        <update_guid_history>540c2749b2d590102a05c434ebd9d95c:-1996583842,89eb2749fdd59010c01743c82dfa2a56:1895371134,302c9b0d0195901091ccab8efd53f4ec:594190396</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="All Presales">1241285ddb59901037a85608689619fd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-08 10:05:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>1bb8e7209b79437a8d1f8b75ad522649</sys_id>
+        <sys_metadata>782c9b0ddb95901037a85608689619ea</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All Presales</sys_name>
+        <sys_package display_value="BigCompany" source="x_491783_bigcompan">9aca90d0dbd1101037a856086896194a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BigCompany">9aca90d0dbd1101037a856086896194a</sys_scope>
+        <sys_scope_delete display_value="">11b51e57713e4c988bca442d8f7d9864</sys_scope_delete>
+        <sys_update_name>sys_app_module_782c9b0ddb95901037a85608689619ea</sys_update_name>
+        <sys_update_version display_value="sys_app_module_782c9b0ddb95901037a85608689619ea">5c0c2749dbd5901037a856086896195c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-08 10:05:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

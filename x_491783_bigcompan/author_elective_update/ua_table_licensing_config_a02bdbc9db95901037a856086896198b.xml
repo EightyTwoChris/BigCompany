@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_491783_bigcompan_presales_engagement</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>chris.mahoney</sys_created_by>
+        <sys_created_on>2020-06-08 04:59:26</sys_created_on>
+        <sys_id>a02bdbc9db95901037a856086896198b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_491783_bigcompan_presales_engagement</sys_name>
+        <sys_package display_value="BigCompany" source="x_491783_bigcompan">9aca90d0dbd1101037a856086896194a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BigCompany">9aca90d0dbd1101037a856086896194a</sys_scope>
+        <sys_update_name>ua_table_licensing_config_a02bdbc9db95901037a856086896198b</sys_update_name>
+        <sys_updated_by>chris.mahoney</sys_updated_by>
+        <sys_updated_on>2020-06-08 04:59:26</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BigCompany">9aca90d0dbd1101037a856086896194a</application>
+        <file_path/>
+        <instance_id>243fee40dbe7138489535d00cf9619e4</instance_id>
+        <instance_name>dev66516</instance_name>
+        <name>ua_table_licensing_config_a02bdbc9db95901037a856086896198b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_491783_bigcompan_presales_engagement</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>chris.mahoney</sys_created_by><sys_created_on>2020-06-08 04:59:26</sys_created_on><sys_id>a02bdbc9db95901037a856086896198b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_491783_bigcompan_presales_engagement</sys_name><sys_package display_value="BigCompany" source="x_491783_bigcompan">9aca90d0dbd1101037a856086896194a</sys_package><sys_policy/><sys_scope display_value="BigCompany">9aca90d0dbd1101037a856086896194a</sys_scope><sys_update_name>ua_table_licensing_config_a02bdbc9db95901037a856086896198b</sys_update_name><sys_updated_by>chris.mahoney</sys_updated_by><sys_updated_on>2020-06-08 04:59:26</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>263800723</payload_hash>
+        <record_name>x_491783_bigcompan_presales_engagement</record_name>
+        <reverted_from/>
+        <source>c5a99f49db95901037a85608689619c6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>chris.mahoney</sys_created_by>
+        <sys_created_on>2020-06-08 04:59:26</sys_created_on>
+        <sys_id>602bdbc9db95901037a856086896198d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172924c30320000001</sys_recorded_at>
+        <sys_updated_by>chris.mahoney</sys_updated_by>
+        <sys_updated_on>2020-06-08 04:59:26</sys_updated_on>
+        <type>Table Subscription Configuration</type>
+        <update_guid>a82bdbc93e95901093eec5d2d014e58c</update_guid>
+        <update_guid_history>a82bdbc93e95901093eec5d2d014e58c:263800723</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-08 05:03:06</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>a3e15feed8b5439487f1776ae664e4c9</sys_id>
+        <sys_metadata>a02bdbc9db95901037a856086896198b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_491783_bigcompan_presales_engagement</sys_name>
+        <sys_package display_value="BigCompany" source="x_491783_bigcompan">9aca90d0dbd1101037a856086896194a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BigCompany">9aca90d0dbd1101037a856086896194a</sys_scope>
+        <sys_scope_delete display_value="">11b51e57713e4c988bca442d8f7d9864</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_a02bdbc9db95901037a856086896198b</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_a02bdbc9db95901037a856086896198b">602bdbc9db95901037a856086896198d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-08 05:03:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

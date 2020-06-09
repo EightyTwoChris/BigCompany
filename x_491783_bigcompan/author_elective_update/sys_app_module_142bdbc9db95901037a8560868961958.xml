@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Presales Engagement ">d02bdbc9db95901037a8560868961955</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Presales Engagement s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_491783_bigcompan_presales_engagement</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_491783_bigcompan.presales_engagement_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>chris.mahoney</sys_created_by>
+        <sys_created_on>2020-06-08 04:59:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>142bdbc9db95901037a8560868961958</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Presales Engagement s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="BigCompany" source="x_491783_bigcompan">9aca90d0dbd1101037a856086896194a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BigCompany">9aca90d0dbd1101037a856086896194a</sys_scope>
+        <sys_update_name>sys_app_module_142bdbc9db95901037a8560868961958</sys_update_name>
+        <sys_updated_by>chris.mahoney</sys_updated_by>
+        <sys_updated_on>2020-06-08 04:59:25</sys_updated_on>
+        <timeline_page/>
+        <title>Presales Engagement s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BigCompany">9aca90d0dbd1101037a856086896194a</application>
+        <file_path/>
+        <instance_id>243fee40dbe7138489535d00cf9619e4</instance_id>
+        <instance_name>dev66516</instance_name>
+        <name>sys_app_module_142bdbc9db95901037a8560868961958</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Presales Engagement ">d02bdbc9db95901037a8560868961955</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Presales Engagement s</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_491783_bigcompan_presales_engagement</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_491783_bigcompan.presales_engagement_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>chris.mahoney</sys_created_by><sys_created_on>2020-06-08 04:59:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>142bdbc9db95901037a8560868961958</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Presales Engagement s</sys_name><sys_overrides/><sys_package display_value="BigCompany" source="x_491783_bigcompan">9aca90d0dbd1101037a856086896194a</sys_package><sys_policy/><sys_scope display_value="BigCompany">9aca90d0dbd1101037a856086896194a</sys_scope><sys_update_name>sys_app_module_142bdbc9db95901037a8560868961958</sys_update_name><sys_updated_by>chris.mahoney</sys_updated_by><sys_updated_on>2020-06-08 04:59:25</sys_updated_on><timeline_page/><title>Presales Engagement s</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>594190396</payload_hash>
+        <record_name>Presales Engagement s</record_name>
+        <reverted_from/>
+        <source>c5a99f49db95901037a85608689619c6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>chris.mahoney</sys_created_by>
+        <sys_created_on>2020-06-08 04:59:25</sys_created_on>
+        <sys_id>502bdbc9db95901037a856086896195b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172924c2d510000001</sys_recorded_at>
+        <sys_updated_by>chris.mahoney</sys_updated_by>
+        <sys_updated_on>2020-06-08 04:59:25</sys_updated_on>
+        <type>Module</type>
+        <update_guid>982bdbc9e7959010949a8b94e463d25a</update_guid>
+        <update_guid_history>982bdbc9e7959010949a8b94e463d25a:594190396</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Presales Engagement s">42fbd70ddb95901037a85608689619ec</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-08 05:03:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>80f60771b9be482c8533e57b4c0fc584</sys_id>
+        <sys_metadata>142bdbc9db95901037a8560868961958</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Presales Engagement s</sys_name>
+        <sys_package display_value="BigCompany" source="x_491783_bigcompan">9aca90d0dbd1101037a856086896194a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BigCompany">9aca90d0dbd1101037a856086896194a</sys_scope>
+        <sys_scope_delete display_value="">11b51e57713e4c988bca442d8f7d9864</sys_scope_delete>
+        <sys_update_name>sys_app_module_142bdbc9db95901037a8560868961958</sys_update_name>
+        <sys_update_version display_value="sys_app_module_142bdbc9db95901037a8560868961958">502bdbc9db95901037a856086896195b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-08 05:03:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

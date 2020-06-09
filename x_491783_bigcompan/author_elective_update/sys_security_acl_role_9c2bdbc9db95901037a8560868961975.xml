@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>chris.mahoney</sys_created_by>
+        <sys_created_on>2020-06-08 04:59:25</sys_created_on>
+        <sys_id>9c2bdbc9db95901037a8560868961975</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_491783_bigcompan_presales_engagement.x_491783_bigcompan.presales_engagement_user</sys_name>
+        <sys_package display_value="BigCompany" source="x_491783_bigcompan">9aca90d0dbd1101037a856086896194a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BigCompany">9aca90d0dbd1101037a856086896194a</sys_scope>
+        <sys_security_acl display_value="x_491783_bigcompan_presales_engagement">502bdbc9db95901037a8560868961973</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9c2bdbc9db95901037a8560868961975</sys_update_name>
+        <sys_updated_by>chris.mahoney</sys_updated_by>
+        <sys_updated_on>2020-06-08 04:59:25</sys_updated_on>
+        <sys_user_role display_value="x_491783_bigcompan.presales_engagement_user" name="x_491783_bigcompan.presales_engagement_user">542b9789db95901037a856086896199a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BigCompany">9aca90d0dbd1101037a856086896194a</application>
+        <file_path/>
+        <instance_id>243fee40dbe7138489535d00cf9619e4</instance_id>
+        <instance_name>dev66516</instance_name>
+        <name>sys_security_acl_role_9c2bdbc9db95901037a8560868961975</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>chris.mahoney</sys_created_by><sys_created_on>2020-06-08 04:59:25</sys_created_on><sys_id>9c2bdbc9db95901037a8560868961975</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_491783_bigcompan_presales_engagement.x_491783_bigcompan.presales_engagement_user</sys_name><sys_package display_value="BigCompany" source="x_491783_bigcompan">9aca90d0dbd1101037a856086896194a</sys_package><sys_policy/><sys_scope display_value="BigCompany">9aca90d0dbd1101037a856086896194a</sys_scope><sys_security_acl display_value="x_491783_bigcompan_presales_engagement">502bdbc9db95901037a8560868961973</sys_security_acl><sys_update_name>sys_security_acl_role_9c2bdbc9db95901037a8560868961975</sys_update_name><sys_updated_by>chris.mahoney</sys_updated_by><sys_updated_on>2020-06-08 04:59:25</sys_updated_on><sys_user_role display_value="x_491783_bigcompan.presales_engagement_user" name="x_491783_bigcompan.presales_engagement_user">542b9789db95901037a856086896199a</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-135080775</payload_hash>
+        <record_name>x_491783_bigcompan_presales_engagement.x_491783_bigcompan.presales_engagement_user</record_name>
+        <reverted_from/>
+        <source>c5a99f49db95901037a85608689619c6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>chris.mahoney</sys_created_by>
+        <sys_created_on>2020-06-08 04:59:25</sys_created_on>
+        <sys_id>142bdbc9db95901037a8560868961978</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172924c2f070000001</sys_recorded_at>
+        <sys_updated_by>chris.mahoney</sys_updated_by>
+        <sys_updated_on>2020-06-08 04:59:25</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>5c2bdbc97d959010250423733673b277</update_guid>
+        <update_guid_history>5c2bdbc97d959010250423733673b277:-135080775</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_491783_bigcompan_presales_engagement.x_491783_bigcompan.presales_engagement_us">02fbd70ddb95901037a85608689619bb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-08 05:03:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>bc7f000b6d424fd0949b411829ff4490</sys_id>
+        <sys_metadata>9c2bdbc9db95901037a8560868961975</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_491783_bigcompan_presales_engagement.x_491783_bigcompan.presales_engagement_user</sys_name>
+        <sys_package display_value="BigCompany" source="x_491783_bigcompan">9aca90d0dbd1101037a856086896194a</sys_package>
+        <sys_parent display_value="">502bdbc9db95901037a8560868961973</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="BigCompany">9aca90d0dbd1101037a856086896194a</sys_scope>
+        <sys_scope_delete display_value="">11b51e57713e4c988bca442d8f7d9864</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_9c2bdbc9db95901037a8560868961975</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_9c2bdbc9db95901037a8560868961975">142bdbc9db95901037a8560868961978</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-08 05:03:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

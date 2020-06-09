@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="8b2b57c9db95901037a8560868961921" sys_domain="global" table="x_491783_bigcompan_presales_engagement" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_user</element>
+            <position>0</position>
+            <sys_created_by>chris.mahoney</sys_created_by>
+            <sys_created_on>2020-06-08 05:01:02</sys_created_on>
+            <sys_id>008b130ddb95901037a856086896190e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_491783_bigcompan_presales_engagement" sys_domain="global" view="Default view">8b2b57c9db95901037a8560868961921</sys_ui_section>
+            <sys_updated_by>chris.mahoney</sys_updated_by>
+            <sys_updated_on>2020-06-08 05:01:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>chris.mahoney</sys_created_by>
+            <sys_created_on>2020-06-08 05:01:02</sys_created_on>
+            <sys_id>848b130ddb95901037a856086896190e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_491783_bigcompan_presales_engagement" sys_domain="global" view="Default view">8b2b57c9db95901037a8560868961921</sys_ui_section>
+            <sys_updated_by>chris.mahoney</sys_updated_by>
+            <sys_updated_on>2020-06-08 05:01:02</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_491783_bigcompan_presales_engagement</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>chris.mahoney</sys_created_by>
+            <sys_created_on>2020-06-08 04:59:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8b2b57c9db95901037a8560868961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_491783_bigcompan_presales_engagement</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="BigCompany" source="x_491783_bigcompan">9aca90d0dbd1101037a856086896194a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BigCompany">9aca90d0dbd1101037a856086896194a</sys_scope>
+            <sys_update_name>sys_ui_section_8b2b57c9db95901037a8560868961921</sys_update_name>
+            <sys_updated_by>chris.mahoney</sys_updated_by>
+            <sys_updated_on>2020-06-08 04:59:36</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BigCompany">9aca90d0dbd1101037a856086896194a</application>
+        <file_path/>
+        <instance_id>243fee40dbe7138489535d00cf9619e4</instance_id>
+        <instance_name>dev66516</instance_name>
+        <name>sys_ui_section_8b2b57c9db95901037a8560868961921</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="8b2b57c9db95901037a8560868961921" sys_domain="global" table="x_491783_bigcompan_presales_engagement" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>u_user</element><position>0</position><sys_created_by>chris.mahoney</sys_created_by><sys_created_on>2020-06-08 05:01:02</sys_created_on><sys_id>008b130ddb95901037a856086896190e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_491783_bigcompan_presales_engagement" sys_domain="global" view="Default view">8b2b57c9db95901037a8560868961921</sys_ui_section><sys_updated_by>chris.mahoney</sys_updated_by><sys_updated_on>2020-06-08 05:01:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>chris.mahoney</sys_created_by><sys_created_on>2020-06-08 05:01:02</sys_created_on><sys_id>848b130ddb95901037a856086896190e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_491783_bigcompan_presales_engagement" sys_domain="global" view="Default view">8b2b57c9db95901037a8560868961921</sys_ui_section><sys_updated_by>chris.mahoney</sys_updated_by><sys_updated_on>2020-06-08 05:01:02</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_491783_bigcompan_presales_engagement</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>chris.mahoney</sys_created_by><sys_created_on>2020-06-08 04:59:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8b2b57c9db95901037a8560868961921</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_491783_bigcompan_presales_engagement</sys_name><sys_overrides/><sys_package display_value="BigCompany" source="x_491783_bigcompan">9aca90d0dbd1101037a856086896194a</sys_package><sys_policy/><sys_scope display_value="BigCompany">9aca90d0dbd1101037a856086896194a</sys_scope><sys_update_name>sys_ui_section_8b2b57c9db95901037a8560868961921</sys_update_name><sys_updated_by>chris.mahoney</sys_updated_by><sys_updated_on>2020-06-08 04:59:36</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1114651912</payload_hash>
+        <record_name>Presales Engagement </record_name>
+        <reverted_from/>
+        <source>c5a99f49db95901037a85608689619c6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>chris.mahoney</sys_created_by>
+        <sys_created_on>2020-06-08 05:01:02</sys_created_on>
+        <sys_id>008b130ddb95901037a8560868961910</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172924da93d0000001</sys_recorded_at>
+        <sys_updated_by>chris.mahoney</sys_updated_by>
+        <sys_updated_on>2020-06-08 05:01:02</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>088b130db89590102e851e88edafd50f</update_guid>
+        <update_guid_history>088b130db89590102e851e88edafd50f:1114651912,0f2b1fc9cb959010b92f9de75a39669f:1369438352</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-08 05:03:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>73d339a7e68a46b4be54e23f990e49c4</sys_id>
+        <sys_metadata>8b2b57c9db95901037a8560868961921</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_491783_bigcompan_presales_engagement</sys_name>
+        <sys_package display_value="BigCompany" source="x_491783_bigcompan">9aca90d0dbd1101037a856086896194a</sys_package>
+        <sys_parent display_value="">080b5bc9db95901037a85608689619c8</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="BigCompany">9aca90d0dbd1101037a856086896194a</sys_scope>
+        <sys_scope_delete display_value="">11b51e57713e4c988bca442d8f7d9864</sys_scope_delete>
+        <sys_update_name>sys_ui_section_8b2b57c9db95901037a8560868961921</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_8b2b57c9db95901037a8560868961921">008b130ddb95901037a8560868961910</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-08 05:03:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
